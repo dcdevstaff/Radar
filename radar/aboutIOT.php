@@ -7,6 +7,7 @@
 		<div class="cover__filter"></div>
 		<div class="cover__caption">
 			<div class="cover__caption__copy">
+			<!--GAYGAYGAY-->
 				<h1 class="centrto">ABOUT IOT </h1>
 				
 			</div>
