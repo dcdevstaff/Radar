@@ -1,5 +1,5 @@
 <?php
-	
+	include_once 'header.php';
 ?>
 	<section class="cover">
 		<div class="cover__filter"></div>
